@@ -1,0 +1,17 @@
+.root {
+}
+
+.label {
+-fx-background-color: #ccb3ff;
+-fx-font-size: 16px;
+-fx-text-alignment: center;
+-fx-alignment: center;
+-fx-min-width:50px;
+-fx-min-height:30px;	
+-fx-max-width:2000px;
+-fx-max-height:2000px;
+}
+
+.text {
+-fx-text-alignment: center;	
+}

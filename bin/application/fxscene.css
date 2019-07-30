@@ -1,0 +1,26 @@
+.root {
+}
+
+.button {
+-fx-background-color: #b3ffec;
+-fx-font-size: 16px;
+-fx-text-alignment: center;
+-fx-alignment: center;
+-fx-min-width:50px;
+-fx-min-height:30px;
+-fx-max-width:2000px;
+-fx-max-height:2000px;
+}
+
+.label {
+-fx-font-size: 10px;
+-fx-text-alignment: left;
+-fx-min-width:30px;
+-fx-min-height:10px;	
+-fx-max-width:2000px;
+-fx-max-height:2000px;
+}
+
+.text {
+-fx-text-alignment: center;	
+}
